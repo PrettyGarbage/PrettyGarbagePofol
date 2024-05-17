@@ -1,5 +1,5 @@
 # PrettyGarbagePofol
-포폴
+최신 코드 스타일을 볼 수 있는 깃 저장소 입니다.
 
 Description
 
