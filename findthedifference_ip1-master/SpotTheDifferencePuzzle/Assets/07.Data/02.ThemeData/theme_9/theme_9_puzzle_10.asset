@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e8fc9ab409acaa46a5a0374dce60db8, type: 3}
+  m_Name: theme_9_puzzle_10
+  m_EditorClassIdentifier: 
+  _id: Soulworker_090_PUZ
+  _imageSprite: {fileID: 21300000, guid: 573e0b849899ac74b88869a771ff1511, type: 3}
+  _puzzleImageParts:
+  - _partSprite: {fileID: 21300000, guid: 2e764ddead9824b4cb08c0016fbb3168, type: 3}
+    _position: {x: 61, y: 215.5}
+    _imageDifficulty: 1
+  - _partSprite: {fileID: 21300000, guid: b55ba624101e01647ab446045626f056, type: 3}
+    _position: {x: 78, y: 290.5}
+    _imageDifficulty: 1
+  - _partSprite: {fileID: 21300000, guid: bff355ead989ef24c81ccea75bf56a0a, type: 3}
+    _position: {x: 111.5, y: 386.5}
+    _imageDifficulty: 1
+  - _partSprite: {fileID: 21300000, guid: 83e15b531d1261d4eb17166eacc00533, type: 3}
+    _position: {x: 232.5, y: 178.5}
+    _imageDifficulty: 2
+  - _partSprite: {fileID: 21300000, guid: d3cf6a264493b5c48b94e6e9f91420d1, type: 3}
+    _position: {x: 317.5, y: 122.5}
+    _imageDifficulty: 2
+  - _partSprite: {fileID: 21300000, guid: e6c68c87ce9672041accf81e72aeaf8f, type: 3}
+    _position: {x: 378, y: 438.5}
+    _imageDifficulty: 2
+  - _partSprite: {fileID: 21300000, guid: 0d147453845087d49861793b08bb225a, type: 3}
+    _position: {x: 372.5, y: 289.5}
+    _imageDifficulty: 0
+  - _partSprite: {fileID: 21300000, guid: 89c212e6ce257294daaf721ff60a0cb6, type: 3}
+    _position: {x: 383.5, y: 126}
+    _imageDifficulty: 0
+  - _partSprite: {fileID: 21300000, guid: 5528db35ec84329469378b1dbff02e00, type: 3}
+    _position: {x: 468.5, y: 297.5}
+    _imageDifficulty: 0

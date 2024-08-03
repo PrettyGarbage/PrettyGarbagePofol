@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db3e981c299aa64aae9b1258982968d, type: 3}
+  m_Name: AdXData_Android
+  m_EditorClassIdentifier: 
+  adAdaptorType: 1
+  _appId: ca-app-pub-1004528999946859~8107848679
+  _bannerAdInfo:
+  - adName: banner_bottom
+    adUnitId: bda41e5a4c3b4cf5adeacf48d0b4658e
+  _interstitialAdInfo:
+  - adName: interstitial_gameend_retry
+    adUnitId: 35a457b55e8247918f8b1569592d17ef
+  _interstitialVideoAdInfo: []
+  _rewardAdInfo:
+  - adName: reward_game
+    adUnitId: ca-app-pub-1004528999946859/8469882117
+  _testUserInfos:
+  - deviceName: "Redmi4(\uC2E0\uAD6C)"
+    deviceId: 20345325D1C6AE941C3CC9F7F3AA6AA8
+  - deviceName: "galaxy S4(\uD0DC\uD615)"
+    deviceId: 2E3F6BCDA4B35480858F6A3DABA5555F
+  - deviceName: "galaxy S5(\uD0DC\uD615)"
+    deviceId: 9F3C5FF8862A0D9287E870816633603F
+  - deviceName: "galaxy S6(\uACBD\uD638)"
+    deviceId: BCD6CEE29FB5143C91B6B602087048A9
+  - deviceName: "galaxy A6(\uC9C4\uAD6C)"
+    deviceId: A80AA4C0942FE24D66ECBA79C510F8FE
+  - deviceName: galaxy S6 Edge
+    deviceId: 922E6E09B09F59A3DD7DE37E4FBFE009
+  - deviceName: adx1
+    deviceId: fe11bee8c1376f30a82d8d7778685e03dc661078
+  - deviceName: adx2
+    deviceId: 5c399f9746421af10620ff7ae16014e14a5a3f9d

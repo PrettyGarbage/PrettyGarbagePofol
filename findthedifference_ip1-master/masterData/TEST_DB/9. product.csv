@@ -1,0 +1,57 @@
+id,product_item_id,payment_type,name,price,jp_price,buy_limit_count,show_yn,android_id,ios_id
+p_30min_package,pi_30min_package,0,STORE_30MINPACKAGE,3.29,360,0,1,ftdipswk_event_30min_360,NULL
+p_all_item_package,pi_all_item_package,0,STORE_ALLITEM,9.89,1300,0,1,ftdipswk_event_allitem_1300,NULL
+p_b_scroe_01,pi_b_scroe_01,1,"Score up 1",500,0,0,1,,
+p_b_scroe_02,pi_b_scroe_02,1,"Score up 5",2000,0,0,1,,
+p_b_scroe_03,pi_b_scroe_03,1,"Score up 10",3500,0,0,1,,
+p_b_time,pi_b_time,1,"bonus time",100,0,0,1,NULL,NULL
+p_collection_03,c_40003,2,"Collection 03",40,0,0,1,,
+p_collection_05,c_40005,1,"Collection 05",3000,0,0,1,,
+p_collection_10,c_40010,1,"Collection 10",5000,0,0,1,,
+p_collection_11,c_40011,2,"Collection 11",140,0,0,1,,
+p_collection_15,c_40015,1,"Collection 15",5000,0,0,1,,
+p_collection_17,c_40017,2,"Collection 17",225,0,0,1,,
+p_collection_22,c_40022,2,"Collection 22",225,0,0,1,,
+p_collection_23,c_40023,1,"Collection 23",15000,0,0,1,,
+p_collection_26,c_40026,1,"Collection 26",10000,0,0,1,,
+p_collection_30,c_40030,2,"Collection 30",350,0,0,1,,
+p_collection_31,c_40031,1,"Collection 31",15000,0,0,1,,
+p_collection_32,c_40032,1,TEST,100,0,0,1,NULL,NULL
+p_collection_33,c_40033,1,TEST,100,0,0,1,NULL,NULL
+p_collection_34,c_40034,1,TEST,100,0,0,1,NULL,NULL
+p_e_time_01,pi_e_time_01,1,"Extra time 1",500,0,0,1,,
+p_e_time_02,pi_e_time_02,1,"Extra time 5",2000,0,0,1,,
+p_e_time_03,pi_e_time_03,1,"Extra time 10",3500,0,0,1,,
+p_first_package,pi_first_package,0,STORE_FIRSTP,0.99,120,1,0,ftdipswk_event_firstp_120,NULL
+p_f_gold_01,pi_f_gold_01,0,"First 2400 Gold",2.19,240,1,0,ftdipswk_gold_first_240,
+p_f_gold_02,pi_f_gold_02,0,"First 6000 Gold",5.49,600,1,0,ftdipswk_gold_first_600,
+p_f_gold_03,pi_f_gold_03,0,"First 10800 Gold",9.89,1080,1,0,ftdipswk_gold_first_1080,
+p_f_gold_04,pi_f_gold_04,0,"First 23000 Gold",23.09,2300,1,0,ftdipswk_gold_first_2300,
+p_f_gold_05,pi_f_gold_05,0,"First 56000 Gold",49.49,5600,1,0,ftdipswk_gold_first_5600,
+p_f_gold_06,pi_f_gold_06,0,"First 98000 Gold",109.99,9800,1,0,ftdipswk_gold_first_9800,
+p_f_time_01,pi_f_time_01,1,"Stop timer 1",250,0,0,1,,
+p_f_time_02,pi_f_time_02,1,"Stop timer 5",1100,0,0,1,,
+p_f_time_03,pi_f_time_03,1,"Stop timer 10",2000,0,0,1,,
+p_gold_01,pi_gold_01,1,"2400 Gold",2.19,240,0,1,ftdipswk_gold_240,
+p_gold_02,pi_gold_02,0,"6000 Gold",5.49,600,0,1,ftdipswk_gold_600,
+p_gold_03,pi_gold_03,0,"10800 Gold",9.89,1080,0,1,ftdipswk_gold_1080,
+p_gold_04,pi_gold_04,0,"23000 Gold",23.09,2300,0,1,ftdipswk_gold_2300,
+p_gold_05,pi_gold_05,0,"56000 Gold",49.49,5600,0,1,ftdipswk_gold_5600,
+p_gold_06,pi_gold_06,0,"98000 Gold",109.99,9800,0,1,ftdipswk_gold_9800,
+p_gold_package,pi_gold_package,0,STORE_GOLD,9.89,1200,0,1,ftdipswk_event_gold_1200,NULL
+p_heart_01,pi_heart_01,1,"Lives 1",200,0,0,1,,
+p_heart_02,pi_heart_02,1,"Lives 5",1000,0,0,1,,
+p_heart_03,pi_heart_03,1,"Lives 10",2000,0,0,1,,
+p_heart_04,pi_heart_04,1,"Lives 20",4000,0,0,1,,
+p_heart_05,pi_heart_05,1,"Lives 30",6000,0,0,1,,
+p_heart_06,pi_heart_06,1,"Lives 50",10000,0,0,1,,
+p_hint_01,pi_hint_01,1,"Hint 1",250,0,0,1,,
+p_hint_02,pi_hint_02,1,"Hint 5",1100,0,0,1,,
+p_hint_03,pi_hint_03,1,"Hint 10",2000,0,0,1,,
+p_item_jackpot_packa,pi_item_jackpot_pack,0,STORE_JACKPOT,100,720,0,1,ftdipswk_event_jackpot_720,NULL
+p_m_defence_01,pi_m_defence_01,1,"Mistake defence 1",500,0,0,1,,
+p_m_defence_02,pi_m_defence_02,1,"Mistake defence 5",2000,0,0,1,,
+p_m_defence_03,pi_m_defence_03,1,"Mistake defence 10",3500,0,0,1,,
+p_starter_package,pi_starter_package,0,STORE_STARTER,2.19,120,1,1,ftdipswk_event_starter_120,NULL
+p_theme_4,pi_theme_4,1,TEST,500,0,0,1,NULL,NULL
+p_unlimited_heart_pa,pi_unlimited_heart_p,0,STORE_UNLIMITEDLIVES,23.09,2400,0,1,ftdipswk_event_unlimited_2400,NULL

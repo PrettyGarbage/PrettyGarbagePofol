@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3f0d5d957d5d0d42a7e3ce9ad39cce2, type: 3}
+  m_Name: AudioDataBase
+  m_EditorClassIdentifier: 
+  _audioDataInfoList:
+  - key: eff_block_pickup
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 5363ccdc1a05cca4a9a8fb6e3d984212, type: 3}
+      _type: 1
+  - key: eff_block_insert
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 06f8d12bca2f4c740a96b872fbceed53, type: 3}
+      _type: 1
+  - key: eff_block_return
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 736e8989af34f2f478bfbfd47bb8fcef, type: 3}
+      _type: 1
+  - key: eff_block_merge
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 8d8194658deb41b459eb0708b20d7e17, type: 3}
+      _type: 1
+  - key: eff_block_rotation
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 2d433cebc1cfa5149ab0f14902abdc5a, type: 3}
+      _type: 1
+  - key: eff_bonusblock_make
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 2f0006f5f274b3d4bb15708cfdb6b7aa, type: 3}
+      _type: 1
+  - key: eff_bonusblock_removecell
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 2676dd1ecd1167c4da5305e550be979d, type: 3}
+      _type: 1
+  - key: eff_get_coin
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.5
+      _clip: {fileID: 8300000, guid: b427858a24986a643b3debfa9446a804, type: 3}
+      _type: 1
+  - key: eff_matching_combo1
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.8
+      _clip: {fileID: 8300000, guid: a1988e805101bab448f28bb5954e3df3, type: 3}
+      _type: 1
+  - key: eff_matching_combo2
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.8
+      _clip: {fileID: 8300000, guid: f030463a0b9dc274d84017ee35b2109d, type: 3}
+      _type: 1
+  - key: eff_matching_combo3
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.8
+      _clip: {fileID: 8300000, guid: a7055ab2971d8c344ab2c202053d9423, type: 3}
+      _type: 1
+  - key: eff_item_hammer_use
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 9f1cb9a319904c6498c6593d3482ba34, type: 3}
+      _type: 1
+  - key: ui_title_start
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: d91cf1dff34729941abb3226bc9f9f27, type: 3}
+      _type: 1
+  - key: ui_title_gameOver
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: ada3d06a375caad4dafef61258878200, type: 3}
+      _type: 1
+  - key: ui_button_common
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 29c1685e8874a964cb58a4bb09c3d277, type: 3}
+      _type: 1
+  - key: ui_button_pause
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: f2a8d5d580726c342828204f74ab4c24, type: 3}
+      _type: 1
+  - key: ui_button_item
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 2782a6e60563a8047987297e03bd065c, type: 3}
+      _type: 1
+  - key: ui_button_event
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: fc2263e09e1daf244ab4e8894c8bdcc1, type: 3}
+      _type: 1
+  - key: ui_popup_open
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 37262f172b2da174a81989cd1e32bc9d, type: 3}
+      _type: 1
+  - key: ui_popup_close
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 7c928cc59c6379347a6b46af6cfee215, type: 3}
+      _type: 1
+  - key: ui_popup_result
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 536b44e291a3d0345a89d8f3eb16605f, type: 3}
+      _type: 1
+  - key: ui_recycle_block
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: e0a3280c02cdf424f87c98291cde5c8c, type: 3}
+      _type: 1
+  - key: ui_popup_coin
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: d9e05ffc345e10840801b02f8b1400ef, type: 3}
+      _type: 1
+  - key: eff_matching_combo4
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.8
+      _clip: {fileID: 8300000, guid: c71838c63a15c304093542c397b26946, type: 3}
+      _type: 1
+  - key: eff_matching_combo6
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.8
+      _clip: {fileID: 8300000, guid: bb40fdbc695600f4789fde00b36bef7c, type: 3}
+      _type: 1
+  - key: bgm_lobby
+    audioClipInfo:
+      _isLoop: 1
+      _volumeRate: 0.1
+      _clip: {fileID: 8300000, guid: 43ada0948916bee4ea3c7cf3ee334ee4, type: 3}
+      _type: 0
+  - key: bgm_ingame
+    audioClipInfo:
+      _isLoop: 1
+      _volumeRate: 0.1
+      _clip: {fileID: 8300000, guid: a08af86e2246c9e41b2499ce8fd34439, type: 3}
+      _type: 0
+  - key: ui_get_mission_reward
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 44d74a173319ec347a558bd4317085d7, type: 3}
+      _type: 1
+  - key: ui_update_hiscore
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: fbcdca8ecae9d9b459c4d2320a5f241d, type: 3}
+      _type: 1
+  - key: eff_block_sliding
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: a8b9b92a7825da9428a0f02ae0ac4238, type: 3}
+      _type: 1
+  - key: ui_lock_item
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 89f54d6dab31d4d42a17c1c8f3cbd7e5, type: 3}
+      _type: 1
+  - key: eff_matching_combo5
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 0.8
+      _clip: {fileID: 8300000, guid: 7d63c49e1eba6624d863b417a56ec035, type: 3}
+      _type: 1
+  - key: ui_bestscore_stemp
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 6de6f788a38e76b4a936f05489b77724, type: 3}
+      _type: 1
+  - key: ui_actiontext_missionclear
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 27550eeb3cb1e2d40a35ef4322b39093, type: 3}
+      _type: 1
+  - key: ui_mission_nextpopup
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: 7e47ab8a1e53b8d4e890b5a667926123, type: 3}
+      _type: 1
+  - key: ui_unlock_chest
+    audioClipInfo:
+      _isLoop: 0
+      _volumeRate: 1
+      _clip: {fileID: 8300000, guid: a93195cc9904c5148be65aea3c9c0983, type: 3}
+      _type: 1

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a32715dc2c789e4e944f7c6c5debbc2, type: 3}
+  m_Name: BoardThemeDB
+  m_EditorClassIdentifier: 
+  _themes:
+  - {fileID: 11400000, guid: 9e0a0a888950749fcb47a8215696a518, type: 2}
+  - {fileID: 11400000, guid: dcc6de7b272293f47ab43c9e515ba404, type: 2}

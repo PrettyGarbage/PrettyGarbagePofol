@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733335101952",
+    "firebase_url": "https://hexa-puzzle-2048-22026549.firebaseio.com",
+    "project_id": "hexa-puzzle-2048-22026549",
+    "storage_bucket": "hexa-puzzle-2048-22026549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733335101952:android:1f4631bf35c08dba",
+        "android_client_info": {
+          "package_name": "com.gbros.hexpuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733335101952-78trkr7ldk3dmmiuogn84rr3ap60hips.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbros.hexpuz",
+            "certificate_hash": "6fb8a9a5232c7d642d2293f1f354b9a892b744f4"
+          }
+        },
+        {
+          "client_id": "733335101952-nfo36s86h1ch260tj4n86ecchq95dgg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglST31htoYfKIuKAOF17lZ_vE6oPXiJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733335101952-nfo36s86h1ch260tj4n86ecchq95dgg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

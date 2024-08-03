@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db3e981c299aa64aae9b1258982968d, type: 3}
+  m_Name: AdData_Android
+  m_EditorClassIdentifier: 
+  _appId: ca-app-pub-9651949622023754~5338165089
+  _bannerAdInfo:
+  - adName: BANNER_INGAME
+    adUnitId: ca-app-pub-9651949622023754/9154838748
+    adUnitIdForTest: ca-app-pub-9651949622023754/9165019010
+  _interstitialAdInfo: []
+  _interstitialVideoAdInfo: []
+  _rewardAdInfo:
+  - adName: REWARD_GAME_CONTINUE
+    adUnitId: ca-app-pub-9651949622023754/7509325404
+    adUnitIdForTest: ca-app-pub-9651949622023754/4212075235
+  - adName: REWARD_READY_HEART_NOTENOUGH
+    adUnitId: ca-app-pub-9651949622023754/1851063798
+    adUnitIdForTest: ca-app-pub-9651949622023754/9081258533
+  - adName: REWARD_SHOP_HEART
+    adUnitId: ca-app-pub-9651949622023754/4691590379
+    adUnitIdForTest: ca-app-pub-9651949622023754/4927101544
+  - adName: REWARD_SHOP_HINT
+    adUnitId: ca-app-pub-9651949622023754/5940258716
+    adUnitIdForTest: ca-app-pub-9651949622023754/7264779836
+  - adName: REWARD_SHOP_FREEZE_TIME
+    adUnitId: ca-app-pub-9651949622023754/6776087414
+    adUnitIdForTest: 'ca-app-pub-9651949622023754/7576605172 '
+  - adName: REWARD_SHOP_EXTRA_TIME
+    adUnitId: ca-app-pub-9651949622023754/2747953313
+    adUnitIdForTest: ca-app-pub-9651949622023754/8925345866
+  - adName: REWARD_SHOP_BONUS_SCORE
+    adUnitId: ca-app-pub-9651949622023754/3122523680
+    adUnitIdForTest: 'ca-app-pub-9651949622023754/6754478093 '
+  - adName: REWARD_SHOP_ONE_MISS_DEFENCE
+    adUnitId: ca-app-pub-9651949622023754/1268362447
+    adUnitIdForTest: ca-app-pub-9651949622023754/7420692501
+  - adName: REWARD_LUCKY_SPIN
+    adUnitId: ca-app-pub-9651949622023754/6640108620
+    adUnitIdForTest: ca-app-pub-9651949622023754/2823628483
+  _testUserInfos:
+  - deviceName: "galaxy S4(\uD0DC\uD615)"
+    deviceId: 2E3F6BCDA4B35480858F6A3DABA5555F
+  - deviceName: "galaxy S5(\uD0DC\uD615)"
+    deviceId: 9F3C5FF8862A0D9287E870816633603F
+  - deviceName: "galaxy S6(\uACBD\uD638)"
+    deviceId: BCD6CEE29FB5143C91B6B602087048A9
+  - deviceName: "galaxy A6(\uC9C4\uAD6C)"
+    deviceId: A80AA4C0942FE24D66ECBA79C510F8FE
+  - deviceName: galaxy S6 Edge
+    deviceId: 922E6E09B09F59A3DD7DE37E4FBFE009

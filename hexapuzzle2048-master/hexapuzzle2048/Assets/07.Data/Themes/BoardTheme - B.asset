@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b2c9ee463eb484abdddad3e7c6de53, type: 3}
+  m_Name: BoardTheme - B
+  m_EditorClassIdentifier: 
+  _tileSprite: {fileID: 21300000, guid: d951c1cf03a70864cb4dee0addc43f44, type: 3}
+  _explosionSprite: {fileID: 21300000, guid: 82632f997fc84c848be888545ea8ec2c, type: 3}
+  _cellSprites:
+  - sprite: {fileID: 21300000, guid: 4302e338207b7944799ec5796a0fbe83, type: 3}
+    color: {r: 0.9058824, g: 0.4666667, b: 0.97647065, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: f7b5e4be42251e94490caf6ae111d2bf, type: 3}
+    color: {r: 0.91372555, g: 0.23529413, b: 0.5686275, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: d0c2ceac7ab117d4bbe1a47087248cc2, type: 3}
+    color: {r: 0.95294124, g: 0.28627452, b: 0.37254903, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: b6c56d18853c7bd4bbbd292a1f3096b2, type: 3}
+    color: {r: 0.94117653, g: 0.40784317, b: 0.27058825, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: 863f4e2113c91b648ae9eba917b4701f, type: 3}
+    color: {r: 0.9607844, g: 0.6901961, b: 0.30980393, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: b3e16d09c71113c4eadbf92bf7083365, type: 3}
+    color: {r: 0.94117653, g: 0.87843144, b: 0.34117648, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: 2249029ba522cc5458ae926054d15031, type: 3}
+    color: {r: 0.7372549, g: 1, b: 0.427451, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: fa5cbdedc543e364991b11b9eee608a2, type: 3}
+    color: {r: 0.27058825, g: 0.9960785, b: 0.6901961, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: 1bd80136d50542d44a741dca501eeab8, type: 3}
+    color: {r: 0.43529415, g: 0.87843144, b: 1, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: b0251eb4c638c8049afdb4b1b209ad5c, type: 3}
+    color: {r: 0.5019608, g: 0.56078434, b: 0.97647065, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: 095fad9b70d43c943a37d1f01ba0b0a9, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    displayNumber: 1
+  - sprite: {fileID: 21300000, guid: 9a706943a7d7f9649bb59c91238acb70, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    displayNumber: 0

@@ -1,0 +1,42 @@
+id,seq,product_id,name,show_yn
+s_gold,0,p_gold_01,2400 Gold,1
+s_gold,1,p_gold_02,6000 Gold,1
+s_gold,2,p_gold_03,10800 Gold,1
+s_gold,3,p_gold_04,23000 Gold,1
+s_gold,4,p_gold_05,56000 Gold,1
+s_gold,5,p_gold_06,98000 Gold,1
+s_gold,6,p_f_gold_01,First 2400 Gold,0
+s_gold,7,p_f_gold_02,First 6000 Gold,0
+s_gold,8,p_f_gold_03,First 10800 Gold,0
+s_gold,9,p_f_gold_04,First 23000 Gold,0
+s_gold,10,p_f_gold_05,First 56000 Gold,0
+s_gold,11,p_f_gold_06,First 98000 Gold,0
+s_heart,0,p_heart_01,Lives 1,1
+s_heart,1,p_heart_02,Lives 5,1
+s_heart,2,p_heart_03,Lives 10,1
+s_heart,3,p_heart_04,Lives 20,1
+s_heart,4,p_heart_05,Lives 30,1
+s_heart,5,p_heart_06,Lives 50,1
+s_hint,0,p_hint_01,hint 1,1
+s_hint,1,p_hint_02,hint 5,1
+s_hint,2,p_hint_03,hint 10,1
+s_f_time,0,p_f_time_01,Stop timer 1,1
+s_f_time,1,p_f_time_02,Stop timer 5,1
+s_f_time,2,p_f_time_03,Stop timer 10,1
+s_e_time,0,p_e_time_01,Extra time 1,1
+s_e_time,1,p_e_time_02,Extra time 5,1
+s_e_time,2,p_e_time_03,Extra time 10,1
+s_b_scroe,0,p_b_scroe_01,Score up 1,1
+s_b_scroe,1,p_b_scroe_02,Score up 5,1
+s_b_scroe,2,p_b_scroe_03,Score up 10,1
+s_m_defence,0,p_m_defence_01,Mistake defence 1,1
+s_m_defence,1,p_m_defence_02,Mistake defence 5,1
+s_m_defence,2,p_m_defence_03,Mistake defence 10,1
+s_b_time,1,p_b_time,bonus time,1
+s_event,0,p_starter_package,Starter Package,1
+s_event,1,p_unlimited_heart_package,Unlimited Lives Package,1
+s_event,2,p_gold_package,Gold Package,1
+s_event,3,p_item_jackpot_package,Jackpot Item Package,1
+s_event,4,p_all_item_package,All Item Package,1
+s_event,5,p_30min_package,30-Min Unlimited Playing,1
+s_event,6,p_first_package,STORE_FIRSTP,1

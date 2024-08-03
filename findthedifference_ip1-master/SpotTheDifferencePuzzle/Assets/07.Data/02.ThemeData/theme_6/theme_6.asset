@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 940a0859aa307f64d81734539e565b3f, type: 3}
+  m_Name: theme_6
+  m_EditorClassIdentifier: 
+  _themeId: theme_6
+  _themeImage: {fileID: 21300000, guid: cc20ed4916dca944b973d5f651fd0652, type: 3}
+  _puzzleImageDatas:
+  - {fileID: 11400000, guid: cdfdfaaa999856043a1a6f246c2a1ed8, type: 2}
+  - {fileID: 11400000, guid: 9203c14aaa854cd4197069954c86be0e, type: 2}
+  - {fileID: 11400000, guid: 29172712799fcc244921421f2ff0d573, type: 2}
+  - {fileID: 11400000, guid: 1f657dcf1afeb134a923692e229602af, type: 2}
+  - {fileID: 11400000, guid: 2e9e2a81929dc8e4dac6805658502e37, type: 2}
+  - {fileID: 11400000, guid: c6026b3cff9d2c6458c2b699c2f1d490, type: 2}
+  - {fileID: 11400000, guid: 1e2e00abccf69104b907e52e23c58643, type: 2}
+  - {fileID: 11400000, guid: 134f8f5ac4331f64d8f89bf939fa1d17, type: 2}
+  - {fileID: 11400000, guid: 9f2255555a8c3fd419bd287024dfc9a8, type: 2}
+  - {fileID: 11400000, guid: d673e02846e8e94428e3216367d93a98, type: 2}

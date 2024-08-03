@@ -1,0 +1,1 @@
+flatc.exe --csharp -o D:\01.Projects\Unity\hexapuzzle2048\hexapuzzle2048\Assets\02.Scripts\Data\ userDataSchema.fbs

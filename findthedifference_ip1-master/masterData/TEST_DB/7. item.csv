@@ -1,0 +1,7 @@
+id,name,type,use_type,desc
+BOUNS_SCORE,"bonus score",3,1,"보너스 점수를 줍니다."
+EXTRA_TIME,"extra time",6,1,"타이머에 시간이 추가됩니다."
+FREEZE_TIME,"freezed time",5,0,"타이머가 잠시 멈춥니다."
+HINT,hint,4,0,"틀린그림 하나를 찾아줍니다."
+ONE_MISS_DEFENCE,"one miss defence",2,1,"실수를 1회 방어해 줍니다."
+SPIN_TICKET,"spin ticket",0,0,"럭키스핀을 1회 사용할 수 있습니다."

@@ -1,0 +1,9 @@
+lastUpgrade=00957
+proj.pluginVersion=0.9.57
+proj.AppId=964840831418
+proj.classDir=Assets%5c02.Scripts%5cCommon%5cNetwork
+proj.ConstantsClassName=GooglePlayServiceInfo
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e964840831418%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.gbros.cftd%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Challenge+Find+the+Difference+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_challenge_find_the_difference%22+translatable%3d%22false%22%3eCgkIuvP6p4ocEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=964840831418-tggus34pjokm2jddp8li0s3ahkjtnfm9.apps.googleusercontent.com
+android.SetupDone=true
+and.BundleId=com.gbros.cftd

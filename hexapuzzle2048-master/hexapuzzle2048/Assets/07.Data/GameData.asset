@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b1688260232f9e499ffb9c6e539a76c, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  _initUserCoin: 500
+  _initItemCost: 100
+  _dailyBonusCoin: 500
+  _coinBoxCoin: 500
+  _coinBoxDailyLimit: 30
+  _coinBoxCoolTimeSeconds: 600
+  _replayAdIntervalSeconds: 600
+  _missionRewardCoin: 300
+  _missionRewardScores: 88130000983a0000409c000080380100c0d4010000710200400d030090d00300e093040030570500801a060020a10700c027090060ae0a0000350c00a0bb0d0040420f00

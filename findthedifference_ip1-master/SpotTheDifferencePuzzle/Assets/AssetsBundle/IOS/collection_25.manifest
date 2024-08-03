@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 705358120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f039295c4572582aedf4c3ad9e7bfbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/04.GameResources/Collection/collection_25.jpg
+- Assets/04.GameResources/Collection/collection_25_thumb.jpg
+Dependencies: []

@@ -1,0 +1,9 @@
+id,name,asset_bundle_android_id,asset_bundle_ios_id,sort_order,show_yn,unlock_condition_id,reward_basic_id,reward_master_id,reg_timestamp,update_timestamp
+theme_1,THEME_1,170,223,0,1,c_theme_1,21001,22001,1553503095,1563257307
+theme_2,THEME_2,222,228,0,1,c_theme_2,21002,22002,1554887780,1563257369
+theme_3,THEME_3,220,224,0,1,c_theme_3,21003,22003,1554948047,1563257340
+theme_4,THEME_4,215,225,0,1,c_theme_4,21004,22004,1559697150,1563257348
+theme_5,THEME_5,216,226,0,1,c_theme_5,21005,22005,1560763746,1563257354
+theme_6,THEME_6,221,229,0,1,c_theme_6,21006,22006,1561025161,1563257376
+theme_7,THEME_7,218,230,0,1,c_theme_7,21007,22007,1561025196,1563257383
+theme_8,THEME_8,219,227,0,1,c_theme_8,21008,22008,1561514215,1563257362

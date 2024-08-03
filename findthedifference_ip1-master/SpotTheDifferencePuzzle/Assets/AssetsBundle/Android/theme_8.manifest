@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 735163354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8746854fae5326981116c56fa396a2f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d80696aa2b91f13dbad325c3cba1810
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e8fc9ab409acaa46a5a0374dce60db8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_4.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_6.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_7.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_5.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_1.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_2.asset
+- Assets/04.GameResources/Images/theme_8_thumb.png
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_9.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_8.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_3.asset
+- Assets/07.Data/02.ThemeData/theme_8/theme_8_puzzle_10.asset
+Dependencies: []

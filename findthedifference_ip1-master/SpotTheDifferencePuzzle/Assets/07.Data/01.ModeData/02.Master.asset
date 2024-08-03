@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceed628a2327f7d4a93e712dfdf393ff, type: 3}
+  m_Name: 02.Master
+  m_EditorClassIdentifier: 
+  _playMode: 1
+  _limitTime: 120
+  _findMinCount: 5
+  _findMaxCount: 5
+  _findMixRule: 23
+  _roundTimeBonus: -1
+  _roundTimePenalty: 20
+  _adTimeBonus: 0

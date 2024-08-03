@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1db3e981c299aa64aae9b1258982968d, type: 3}
+  m_Name: AdData_IOS
+  m_EditorClassIdentifier: 
+  _appId: ca-app-pub-4210421978815067~8249164189
+  _bannerAdInfo:
+  - adName: BANNER_INGAME
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/9095341991
+  _interstitialAdInfo: []
+  _interstitialVideoAdInfo: []
+  _rewardAdInfo:
+  - adName: REWARD_GAME_CONTINUE
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/8831687924
+  - adName: REWARD_READY_HEART_NOTENOUGH
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/5526867739
+  - adName: REWARD_SHOP_HEART
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/3294196882
+  - adName: REWARD_SHOP_HINT
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/2260316819
+  - adName: REWARD_SHOP_FREEZE_TIME
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/1789543527
+  - adName: REWARD_SHOP_EXTRA_TIME
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/2140843411
+  - adName: REWARD_SHOP_BONUS_SCORE
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/8163380188
+  - adName: REWARD_SHOP_ONE_MISS_DEFENCE
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/9416698203
+  - adName: REWARD_LUCKY_SPIN
+    adUnitId: 
+    adUnitIdForTest: ca-app-pub-4210421978815067/6163902805
+  _testUserInfos:
+  - deviceName: iphone6
+    deviceId: a41a7b761db0829f571658bac8ba9655

@@ -1,0 +1,33 @@
+namespace FlatBuffersModel;
+
+table UserModel {
+  score:int;
+  coin:int;
+  dailyRewardDay: string; 
+  coinBoxRewardDay: string; 
+  cointBoxRewardCount : int;
+  cointBoxRewardTimeStamp : long = 0;
+  playData : PlayModel;
+}
+
+table LastPartsModel {
+  angleValue : int;
+  cellPartsArray : [int];
+}
+
+table CellModel {
+  x : short;
+  y : short;
+  value : int;
+}
+
+table PlayModel {
+  score : int;
+  coin : int;
+  adContinueWatchCount : int;
+  cellArray : [CellModel];
+  lastPartsData : LastPartsModel;
+  itemUseCountArray : [int]; 
+}
+
+root_type UserModel;

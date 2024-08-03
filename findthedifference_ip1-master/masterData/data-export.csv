@@ -1,0 +1,19 @@
+# ----------------------------------------
+# 이벤트
+# ----------------------------------------
+이벤트 이름,수,사용자,전환으로 표시
+ad_reward,40,6,false
+app_remove,7,7,false
+first_open,14,14,true
+Game_Lobby_Show,147,12,false
+Game_theme_AllClear,22,4,false
+Game_themeMode_show,95,10,false
+os_update,1,1,false
+PlayChallengeRoundEnd,75,9,false
+PlayChallengeRoundStart,89,8,false
+PlayChallengeStart,53,8,false
+PlayThemeRoundEnd,119,5,false
+PlayThemeRoundStart,170,8,false
+PlayThemeStart,80,8,false
+screen_view,389,14,false
+session_start,22,14,false
